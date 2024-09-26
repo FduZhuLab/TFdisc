@@ -9,4 +9,4 @@ pip install TFdisc
 
 ## The tutorial for TFdisc
 
-please refer to https://github.com/FduZhuLab/TFdisc
+please refer to the example jupyter notebook
