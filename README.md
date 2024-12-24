@@ -12,7 +12,7 @@ pip install TFdisc
 
 ## The tutorial for TFdisc
 
-please refer to the Tutorial and **full documentation** for TFdisc is available on `Read the Docs <https://tfdisc-book.readthedocs.io/en/latest/>`_
+please refer to the Tutorial and **full documentation** for TFdisc is available on [Read the Docs](https://tfdisc-book.readthedocs.io/en/latest/)
 
 
 ## Contact

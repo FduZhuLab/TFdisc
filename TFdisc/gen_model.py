@@ -11,7 +11,11 @@ from functools import partial
 from itertools import repeat
 import warnings
 warnings.filterwarnings("ignore")
+<<<<<<< HEAD
 from .pre_model import fix_TF_matrix_predict,fix_HVG_matrix_predict
+=======
+from pre_model import fix_TF_matrix_predict,fix_HVG_matrix_predict
+>>>>>>> 144b3617b0f9ac7af893c5570c0093b8ddc5b51a
 
 
 def combine_predict(imp_data,TF_list,HVG_list,grn,krr_premodel,rf_premodel,
